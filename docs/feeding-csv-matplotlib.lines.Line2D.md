@@ -5,6 +5,8 @@ Following on from []()
 * use `pandas` to split this table into two equal lenght lists (x,y) 
 * feed our x[] and y[] lists into matplotlib.lines.Line2D - for another simple plot example
 
+I've created [feeding-csv-matplotlib.lines.Line2D.ipynb](../chapter/feeding-csv-matplotlib.lines.Line2D.ipynb)
+
 ![feeding-csv-matplotlib.lines.Line2D.png](feeding-csv-matplotlib.lines.Line2D.png)
 
 here is our `.csv` input
