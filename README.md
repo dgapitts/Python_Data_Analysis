@@ -6,3 +6,4 @@ Note from [linkedin.com learning course python-data-analysis](https://www.linked
 * [Another matplotlib.lines.Line2D simple plot example](docs/matplotlib.lines.Line2D-simple-example.md) 
 * [Feeding .csv file into matplotlib.lines.Line2D](docs/feeding-csv-matplotlib.lines.Line2D.md) 
 * [Lists, tuples, and the slicing syntax](docs/lists-tuples-slicing-syntax.md)
+* [Dictionaries and sets](docs/dictionaries-sets.md)
