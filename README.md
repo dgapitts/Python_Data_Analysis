@@ -14,3 +14,4 @@ I've added my own notes and a few extra demo scripts to highlight key learning p
 * [Regular iterator loop vs comprehensions ("more pythonic")](docs/regular-iterator-loop-vs-comprehensions.md)
 * [Comprehensions with Filters](docs/comprehensions-with-filters.md)md
 * [Advanced Python containers - collections.namedtuple - example persontype](docs/namedtuple-example-persontype.md)
+* [Advanced Python containers - Collections default-dict - simple meaning-of-life example](docs/collections-defaultdict-example.md) 
