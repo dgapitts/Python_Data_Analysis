@@ -1,8 +1,10 @@
 ## Collections default-dict
 
+As per the course
+
 > There's another variant of dict that remains useful, collections default dict. The point here is to define a default for values that will be returned if we ask for a key for which there was no entry. More precisely, we have to provide a function that returns that default. 
 
-Simple demo code
+So some simple demo code
 ```
 ~/projects/Python_Data_Analysis $ cat docs/collections-defaultdict-example.py
 ## collections-defaultdict-example.py
